@@ -18,3 +18,6 @@
 #   value = module.vpc.database_subnet_ids
 # }
 
+# output "sg_id" {
+#   value = module.sg.sg_id
+# }
